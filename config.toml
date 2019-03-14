@@ -1,7 +1,8 @@
 baseURL = "https://example.org/"
 languageCode = "en-us"
 title = "Navigator | Responsive Multipurpose Bootstrap Hugo Template"
-theme = "hugo-sodium-theme"
+#theme = "hugo-sodium-theme"
+theme = "navigator-hugo"
 
 # Build robots.txt file
 enableRobotsTXT = true

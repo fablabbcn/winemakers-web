@@ -1,3 +1,6 @@
 [submodule "themes/hugo-sodium-theme"]
 	path = themes/hugo-sodium-theme
 	url = https://github.com/uicardiodev/hugo-sodium-theme.git
+[submodule "themes/navigator-hugo"]
+	path = themes/navigator-hugo
+	url = https://github.com/themefisher/navigator-hugo
