@@ -13,6 +13,6 @@ Which is live at: https://winemakers.github.io
 
 ### Develop locally
 
-Start the Hugo webserver with
+Start the Hugo webserver locally with
 
-`hugo server -D`
+`hugo server`
