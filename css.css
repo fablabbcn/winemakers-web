@@ -2,10 +2,10 @@ body{
   font-family: 'Catamaran', sans-serif;
   font-weight: 300;
   background-color: #6d0b34;
-  background: url( "./bg.jpg");
-}
-
-.bg-image{
+  background-image: url( "./bg.jpg");
+  background-position: top;
+  background-repeat-x: repeat;
+  background-size: contain;
 }
 
 h1{ font-weight: 800; }
