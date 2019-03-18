@@ -3,9 +3,11 @@ body{
   font-weight: 300;
   background-color: #6d0b34;
   background-image: url( "./bg.png");
+  /*
   background-position: top;
   background-repeat-x: repeat;
   background-size: contain;
+  */
 }
 
 h1{ font-weight: 800; }
